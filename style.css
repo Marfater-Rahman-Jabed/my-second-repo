@@ -3,12 +3,20 @@ h3{
 }
 p{
     color:black;
-    background-color: burlywood;
+    ;
 }
 .cl1{
          background-color: coral;
          padding: 20px;
          border: 20px solid gainsboro;
          border-radius: 15px;
+         margin: 40px;
 
+}
+img{
+    border: 20px solid chartreuse;
+   
+}
+#id1{
+    text-align: center;
 }
